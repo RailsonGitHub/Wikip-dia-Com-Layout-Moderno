@@ -1,2 +1,2 @@
-# Wikip´pedia  Com Layout Moderno
+# Wikipédia  Com Layout Moderno
 Aplicando nova aparência ao Wikipédia! 
